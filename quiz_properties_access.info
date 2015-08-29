@@ -1,0 +1,6 @@
+name = Quiz Properties Access
+description = Provides a permission to edit a quiz's properties on its node edit form.
+core=7.x
+package = Quiz Addon
+version = "7.x-1-alpha"
+dependencies[] = quiz(7.x-5.x) 
